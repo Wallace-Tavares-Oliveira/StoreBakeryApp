@@ -1,5 +1,5 @@
 # <h1 align="center">Store Bakery Application</h1>
-## Contribuição para projeto de Renan Telini, aplicação para comercios alimenticios (padarias)
+## Aplicação para comercio alimenticio (padarias)
 
  ![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
 ![Maven Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
