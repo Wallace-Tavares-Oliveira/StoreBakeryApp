@@ -33,7 +33,9 @@
 
 ## 🛠️ Abrir e rodar o projeto
 
+<!--
 ![Heroku](https://img.shields.io/badge/Heroku-Deploy-6567a5)
 </br>
 Link para teste do deploy: 
  <a href="https://dashboard.heroku.com/apps/store-bakery-application" title="Heroku Link"><img width="22" src="images/heroku.png"> Heroku</a></code>
+-->
