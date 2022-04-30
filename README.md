@@ -29,11 +29,12 @@
 - ``Insomnia para API REST``
 - ``Paradigma de orientação a objetos``
 
+<!--
 ## 📁 Acesso ao projeto
 
 ## 🛠️ Abrir e rodar o projeto
 
-<!--
+
 ![Heroku](https://img.shields.io/badge/Heroku-Deploy-6567a5)
 </br>
 Link para teste do deploy: 
