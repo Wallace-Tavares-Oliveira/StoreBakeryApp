@@ -1,11 +1,12 @@
 # <h1 align="center">Store Bakery Application</h1>
 ## Aplicação para comercio alimenticio (padarias)
 
- ![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
-![Maven Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
-![GitHub Release Date](https://img.shields.io/github/release-date/dropbox/dropbox-sdk-java)
 
-<p align="center">
+ ![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
+ ![Maven Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
+ ![GitHub Release Date](https://img.shields.io/github/release-date/dropbox/dropbox-sdk-java)
+
+<p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" />
 </p>
 
